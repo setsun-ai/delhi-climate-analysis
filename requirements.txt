@@ -1,6 +1,6 @@
-pandas
-numpy
-matplotlib
-seaborn
-nbformat
-jupyter
+pandas==3.0.3
+numpy==2.4.4
+matplotlib==3.10.9
+seaborn==0.13.2
+nbformat==5.10.4
+jupyter==1.1.1
